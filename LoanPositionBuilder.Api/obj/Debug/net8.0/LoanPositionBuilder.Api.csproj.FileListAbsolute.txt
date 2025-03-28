@@ -1,0 +1,72 @@
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.csproj.AssemblyReference.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.AssemblyInfoInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.AssemblyInfo.cs
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.csproj.CoreCompileInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.MvcApplicationPartsAssemblyInfo.cs
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.MvcApplicationPartsAssemblyInfo.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.sourcelink.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/appsettings.Development.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/appsettings.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.deps.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.runtimeconfig.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.build.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.development.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.LoanPositionBuilder.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.LoanPositionBuilder.Api.props
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LoanPositionBuilder.Api.props
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LoanPositionBuilder.Api.props
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/scopedcss/bundle/LoanPositionBuilder.Api.styles.css
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPosi.B953702C.Up2Date
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/refint/LoanPositionBuilder.Api.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.genruntimeconfig.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/ref/LoanPositionBuilder.Api.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/appsettings.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.deps.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.runtimeconfig.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.csproj.AssemblyReference.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.AssemblyInfoInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.AssemblyInfo.cs
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.csproj.CoreCompileInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.sourcelink.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.LoanPositionBuilder.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.LoanPositionBuilder.Api.props
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.LoanPositionBuilder.Api.props
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.LoanPositionBuilder.Api.props
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/scopedcss/bundle/LoanPositionBuilder.Api.styles.css
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPosi.B953702C.Up2Date
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/refint/LoanPositionBuilder.Api.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/LoanPositionBuilder.Api.genruntimeconfig.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Api/obj/Debug/net8.0/ref/LoanPositionBuilder.Api.dll

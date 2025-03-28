@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ah9W9qWSU70goz3ivLOUsbOJwcPQSTyUfM+nPhTfkIs=",
+  "Source": "LoanPositionBuilder.Api",
+  "BasePath": "_content/LoanPositionBuilder.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,228 @@
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_LoanPositionBuilder.Tests
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.deps.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.runtimeconfig.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/appsettings.Development.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/appsettings.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.deps.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.runtimeconfig.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/testhost.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.assert.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.csproj.AssemblyReference.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.AssemblyInfoInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.AssemblyInfo.cs
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.csproj.CoreCompileInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.sourcelink.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPosi.C501A3D0.Up2Date
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/refint/LoanPositionBuilder.Tests.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.genruntimeconfig.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/ref/LoanPositionBuilder.Tests.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_LoanPositionBuilder.Tests
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/appsettings.Development.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/appsettings.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.deps.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.runtimeconfig.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.deps.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.runtimeconfig.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Tests.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/testhost.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/bin/Debug/net8.0/LoanPositionBuilder.Api.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.csproj.AssemblyReference.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.AssemblyInfoInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.AssemblyInfo.cs
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.csproj.CoreCompileInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.sourcelink.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPosi.C501A3D0.Up2Date
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/refint/LoanPositionBuilder.Tests.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/LoanPositionBuilder.Tests.genruntimeconfig.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Tests/obj/Debug/net8.0/ref/LoanPositionBuilder.Tests.dll

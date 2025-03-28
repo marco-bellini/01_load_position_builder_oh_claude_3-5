@@ -1,0 +1,24 @@
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.deps.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.AssemblyInfoInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.AssemblyInfo.cs
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.csproj.CoreCompileInputs.cache
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.sourcelink.json
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/refint/LoanPositionBuilder.Core.dll
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/workspace/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/ref/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.deps.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/bin/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.AssemblyInfoInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.AssemblyInfo.cs
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.csproj.CoreCompileInputs.cache
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.sourcelink.json
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/refint/LoanPositionBuilder.Core.dll
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/LoanPositionBuilder.Core.pdb
+/home/marco/ML/OH/load2/workspace (1)/01_load_position_builder_oh_claude_3-5/LoanPositionBuilder.Core/obj/Debug/net8.0/ref/LoanPositionBuilder.Core.dll
