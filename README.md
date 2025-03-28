@@ -1,3 +1,6 @@
+Built with OpenHands with Claude 3.5 Sonnet (Anthropic). Time: 10 minutes. Costs: 2 USD.
+
+
 # Loan Position Builder and Drawdown Calculator
 
 This solution provides a set of APIs for calculating loan positions and drawdown scenarios in a collateral lending system.
